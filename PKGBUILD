@@ -2,7 +2,7 @@
 
 pkgname=libgw2formats
 _pkgname=gw2formats
-pkgver=1.0.r97.6f3690c
+pkgver=1.0.r117.14efd3a
 pkgrel=1
 pkgdesc="Library used for reading Guild Wars 2's files in a type-safe manner."
 arch=('x86_64')
